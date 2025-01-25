@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --primary-color: #cbf2b0;
+  --bg: #fcf6e7;
+  --font-normal: "Azeret Mono";
+  --font-italic: "Instrument Serif", serif;
+}
